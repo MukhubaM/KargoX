@@ -1,0 +1,18 @@
+package com.kargox.entity;
+
+public enum GoodsCategory {
+
+    FURNITURE,
+    APPLIANCES,
+    PARCELS,
+    DOCUMENTS,
+    BUILDING_MATERIALS,
+    OFFICE_EQUIPMENT,
+    ELECTRONICS,
+    GROCERIES,
+    BUSINESS_INVENTORY,
+    PERSONAL_BELONGINGS,
+    FRAGILE_ITEMS,
+    LARGE_CARGO,
+    OTHER
+}

@@ -1,0 +1,13 @@
+package com.kargox.entity;
+
+public enum NotificationType {
+
+    DRIVER_ASSIGNED,
+    DRIVER_ARRIVED,
+    GOODS_COLLECTED,
+    DELIVERY_COMPLETED,
+    PAYMENT_CONFIRMED,
+    BOOKING_CANCELLED,
+    NEW_BOOKING_REQUEST,
+    GENERIC
+}
